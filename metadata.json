@@ -1,0 +1,6 @@
+{
+  "name": "SmartRetail AI",
+  "description": "Predictive Retail Analytics Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
